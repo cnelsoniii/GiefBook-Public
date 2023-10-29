@@ -14,4 +14,6 @@ Android Studio, Kotlin, Jetpack Compose, Room, MVVM, Material 3
 ![Generator](https://i.postimg.cc/qBKWYP4j/Google-Pixel-4-XL-1.png)
 
 ## Dev Ramblings
-I programmed, designed and tested the app as a solo developer. I wanted to create an app to showcase all that I have learned while working with Jetpack Compose. The idea came to me while playing Street Fighter 6. I leveraged the Jetpack Compose framework to design the app using Material 3 design principles. I added a lot of actions to the TopAppBar, similar to Youtube's TopAppBar. The BottomSheet modal designs were inspired by Spotify's BottomSheet. The typography and color were inspired by the UI in Street Fighter 6.
+As a solo developer I programmed, designed and QA tested this app. This represents my first Jetpack Compose app launched to the Google Play Store. I originally built the app to be used just by me to practice combos in Street Fighter 6. I then challenged myself to make the app into a product that could be launched on Google Play. The biggest challenge I faced was making sure the app UI could fit on a variety of devices, from big to small. 
+
+Incorporating the principles of Material 3 design, I constructed the app, by taking ideas from my favorite apps. Youtube and Spotify served as inspiration due to their clean designs and intuitive use of modals, dialogs, floating action buttons, and top app bar. The font style and color palette were drawn from the captivating UI of Street Fighter 6 which lend to a vibrant and immersive vibe.
